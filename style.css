@@ -1,0 +1,36 @@
+h1 {
+	  color: white!important;
+	  text-align: center;
+}
+
+h2 {
+	  color: white !important;
+	  text-align: center;
+}
+
+form {
+    margin-left: 42%;
+    margin-right:42%;
+    width: 50%;
+	color:black;
+	font-weight:bold;
+}
+
+forms {
+        margin-left: 45%;
+    margin-right:45%;
+    width: 50%;
+	color:white;
+}
+
+
+nav, navbar, navbar-inverse{
+	margin-bottom:0 !important;
+}
+
+body{
+	background-image: url('facebook-card.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}

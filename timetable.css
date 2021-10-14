@@ -1,0 +1,72 @@
+h1 {
+text-align:left;
+font-family: "Times New Roman", cursive, sans-serif;
+color:black;
+}
+
+container{
+	margin-top:30px;
+}
+
+img{
+	height:45px;
+}
+
+container{
+	border:20px solid black;
+}
+
+table {
+    border-collapse: collapse;
+	width:100px;
+	display: block;
+}
+
+table td {
+    border: 1px solid #333;
+}
+
+
+#gol {
+	border:2px solid black;
+}
+
+row{
+		background:	#C0C0C0;
+}
+body{
+	  background-image: url('bg.jpg');
+}
+
+
+
+
+
+#row2:hover {
+  background-color: #B0E0E6;
+  border:2px solid black;
+}
+#row3:hover {
+  background-color: #B0E0E6;
+  border:2px solid black;
+}
+#row4:hover {
+  background-color: #B0E0E6;
+  border:2px solid black;
+}
+#row5:hover {
+  background-color: #B0E0E6;
+  border:2px solid black;
+}
+#row6:hover {
+  background-color: #B0E0E6;
+  border:2px solid black;
+}
+#row7:hover {
+  background-color: #B0E0E6;
+  border:2px solid black;
+}
+	
+#row1{
+		background:	#C0C0C0;
+}

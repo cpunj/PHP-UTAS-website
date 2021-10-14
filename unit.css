@@ -1,0 +1,36 @@
+h1 {
+font-size:16px;
+font-weight:bold;
+color:black;
+}
+
+h2{
+	font-size:18px;
+	text-decoration:underline;
+	text-align:center;
+	color:black;
+	
+}
+
+body {
+  background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+p{
+	color:black;
+}
+
+table,td,tr,th{
+	color:black;
+	border:solid 2px black;
+	 border-collapse: collapse;
+}
+
+
+
+
+
+

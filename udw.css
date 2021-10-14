@@ -1,0 +1,18 @@
+h1{
+text-align:center;
+color:black;
+}
+
+
+
+div{
+	text-align:center;
+	color:black;
+}
+body{
+	background-image: url('University_of_Otago.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
